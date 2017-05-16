@@ -1,4 +1,4 @@
-# Suma
+# Modulo Suma
 
 Módulo Suma. Este módulo permite realizar la operación de suma entre dos dígitos.
 
