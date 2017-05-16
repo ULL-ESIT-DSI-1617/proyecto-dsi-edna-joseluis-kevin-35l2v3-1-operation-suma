@@ -28,6 +28,8 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma#readme",
   "devDependencies": {
-    "documentation": "^4.0.0-rc.1"
+    "documentation": "^4.0.0-rc.1",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3"
   }
 }
