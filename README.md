@@ -6,6 +6,10 @@ Módulo Suma. Este módulo permite realizar la operación de suma entre dos díg
 
 [Documentación del Modulo Suma](https://ull-esit-dsi-1617.github.io/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma/)
 
+## Travis
+
+[![BuildStatus](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
+
 ## Asignatura DSI ULL
 
 [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
