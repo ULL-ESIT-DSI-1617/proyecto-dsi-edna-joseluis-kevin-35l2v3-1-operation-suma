@@ -1,6 +1,17 @@
-# Modulo Suma
+# operation-suma
 
 Módulo Suma. Este módulo permite realizar la operación de suma entre dos dígitos.
+
+## Módulo Principal
+
+[Operation (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation)
+[Operation (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation)
+
+##Módulos Disponibles
+
+* Resta
+    * [operation-resta (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta)
+    * [operation-resta (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-resta)
 
 ## Documentación
 
