@@ -13,6 +13,10 @@ Módulo Suma. Este módulo permite realizar la operación de suma entre dos díg
   * [operation-resta (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta)
   * [operation-resta (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-resta)
 
+##### Multiplicacion
+  * [operation-multiplicacion (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-multiplicacion)
+  * [operation-multiplicacion (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-multiplicacion)
+
 ## Documentación
 
 [Documentación del Modulo Suma](https://ull-esit-dsi-1617.github.io/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma/)
