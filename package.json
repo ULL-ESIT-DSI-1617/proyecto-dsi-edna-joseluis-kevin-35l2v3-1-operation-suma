@@ -4,16 +4,30 @@
   "description": "Modulo de suma",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "doc": "documentation build index.js -f html -o docs"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma.git"
   },
-  "author": "Edna Galiano, Kevin Estévez Expósito, jose Luis Delgado",
+  "author": "Edna Liliana Galiano Camacho - José Luis Doblado González - Kevin Estévez Expósito",
+  "contributors": [
+    {
+      "name": "Edna Liliana Galiano Camacho"
+    },
+    {
+      "name": "José Luis Doblado González"
+    },
+    {
+      "name": "Kevin Estévez Expósito"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma#readme"
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma#readme",
+  "devDependencies": {
+    "documentation": "^4.0.0-rc.1"
+  }
 }
