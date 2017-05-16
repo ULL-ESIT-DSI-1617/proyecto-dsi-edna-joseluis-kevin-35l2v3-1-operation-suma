@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma",
+  "version": "1.0.0",
+  "description": "Modulo de suma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma.git"
+  },
+  "author": "Edna Galiano, Kevin Estévez Expósito, jose Luis Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma#readme"
+}
