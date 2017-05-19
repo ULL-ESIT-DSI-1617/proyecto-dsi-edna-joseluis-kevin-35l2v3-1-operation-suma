@@ -2,9 +2,9 @@
   "name": "@ull-edna-joseluis-kevin-35l2/ull-operation-suma",
   "version": "1.0.1",
   "description": "Módulo complementario para el cálculo de sumas.",
-  "main": "index.js",
+  "main": "suma.js",
   "scripts": {
-    "doc": "documentation build index.js -f html -o docs",
+    "doc": "documentation build suma.js -f html -o docs",
     "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
