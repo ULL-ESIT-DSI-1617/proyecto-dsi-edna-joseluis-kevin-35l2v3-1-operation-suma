@@ -3,10 +3,10 @@ var shell = require('gulp-shell');
 
 gulp.task('default', ['test']);
 
-gulp.task('debug', shell.task('node --inspect --debug-brk index.js'));
+gulp.task('debug', shell.task('node --inspect --debug-brk suma.js'));
 
-gulp.task('run', shell.task('node index.js'));
+gulp.task('run', shell.task('node suma.js'));
 
-gulp.task("doc", shell.task("npm run doc"));
+gulp.task('test', shell.task('./node_modules/karma/bin/karma start --single-run --browsers Chrome,Firefox'));
 
-gulp.task("test", shell.task("npm test"));
+gulp.task('doc', shell.task('documentation build suma.js -f html -o docs'));
