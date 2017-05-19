@@ -1,7 +1,7 @@
 {
   "name": "@ull-edna-joseluis-kevin-35l2/ull-operation-suma",
   "version": "1.0.1",
-  "description": "Modulo de suma",
+  "description": "Módulo complementario para el cálculo de sumas.",
   "main": "index.js",
   "scripts": {
     "doc": "documentation build index.js -f html -o docs",
@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma.git"
   },
+  "keywords": [
+    "operation",
+    "suma"
+  ],
   "author": "Edna Liliana Galiano Camacho - José Luis Doblado González - Kevin Estévez Expósito",
   "contributors": [
     {
@@ -27,6 +31,9 @@
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma/issues"
   },
+  "dependencies": {
+    "@ull-edna-joseluis-kevin-35l2/ull-operation": "^2.0.0"
+  },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma#readme",
   "devDependencies": {
     "chai": "^3.5.0",
@@ -34,8 +41,5 @@
     "gulp": "^3.9.1",
     "gulp-shell": "^0.6.3",
     "mocha": "^3.4.1"
-  },
-  "dependencies": {
-    "@ull-edna-joseluis-kevin-35l2/ull-operation": "^1.0.3"
   }
 }

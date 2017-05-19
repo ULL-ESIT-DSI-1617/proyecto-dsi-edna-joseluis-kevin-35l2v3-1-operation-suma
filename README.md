@@ -1,6 +1,8 @@
+[![BuildStatus](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
+
 # operation-suma
 
-Módulo Suma. Este módulo permite realizar la operación de suma entre dos dígitos.
+Módulo complementario para el cálculo de sumas.
 
 ## Módulo Principal
 
@@ -9,21 +11,25 @@ Módulo Suma. Este módulo permite realizar la operación de suma entre dos díg
 
 ## Módulos Disponibles
 
-##### Resta
+### Suma
+  * [operation-suma (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
+  * [operation-suma (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-suma)
+
+### Resta
   * [operation-resta (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta)
   * [operation-resta (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-resta)
 
-##### Multiplicacion
+### Multiplicacion
   * [operation-multiplicacion (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-multiplicacion)
   * [operation-multiplicacion (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-multiplicacion)
 
+### División
+  * [operation-division (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-division)
+  * [operation-division (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-division)
+
 ## Documentación
 
-[Documentación del Modulo Suma](https://ull-esit-dsi-1617.github.io/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma/)
-
-## Travis
-
-[![BuildStatus](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
+[Documentación del Módulo operation-suma](https://ull-esit-dsi-1617.github.io/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma/)
 
 ## Asignatura DSI ULL
 
